@@ -337,3 +337,9 @@ cd github_assignment/
 ls
 cd commit-history-task-bizz-training-period/
 ls
+vi push_history.sh 
+vi ~/.bashrc 
+s
+history
+source ~/.bashrc
+crontab -e
