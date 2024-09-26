@@ -350,3 +350,5 @@ cat ls
 ls
 cat push_history.sh 
 ;ls
+vi crontab -e
+crontab -l
