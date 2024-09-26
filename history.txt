@@ -343,3 +343,9 @@ s
 history
 source ~/.bashrc
 crontab -e
+fa
+ls
+cat history.txt 
+cat ls
+ls
+cat push_history.sh 
