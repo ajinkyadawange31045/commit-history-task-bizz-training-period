@@ -1,0 +1,334 @@
+ls
+df -h
+cls
+sudo yum update -y
+cat /etc/redhat-release
+df -h
+free -m
+lscpu
+sudo yum install java-1.8.0-openjdk -y
+dh -h
+df -h
+free -g
+free -m
+sudo yum install wget -y
+wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+wget https://yum.oracle.com/repo/OracleLinux/OL7/latest/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el7.x86_64.rpm
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el7.x86_64.rpm -y
+ls
+ sudo /etc/init.d/oracle-xe-21c configure
+export CV_ASSUME_DISTID=OEL8.1
+vi $ORACLE_HOME/cv/admin/cvu_config
+sudo vi vi $ORACLE_HOME/cv/admin/cvu_config
+sudo vi $ORACLE_HOME/cv/admin/cvu_config
+/etc/init.d/oracle-xe-21c configure
+sudo /etc/init.d/oracle-xe-21c configure
+sqlplus
+sqlplus ajinkya/Ajinkya123
+history
+ls
+cd
+ls
+history
+lsnrctl status
+cat /opt/oracle/cfgtoollogs/dbca/xe/DBCreate.log
+sudo cat /opt/oracle/cfgtoollogs/dbca/xe/DBCreate.log
+cat /opt/oracle/cfgtoollogs/dbca/XE/XE.log
+sudo cat /opt/oracle/cfgtoollogs/dbca/XE/XE.log
+sudo vi /opt/oracle/cfgtoollogs/dbca/XE/XE.log
+sudo vi /opt/oracle/product/21c/dbhomeXE/dbs/initXE.ora
+sudo vi /opt/oracle/cfgtoollogs/dbca
+sudo vi /opt/oracle/product/21c/dbhomeXE/dbs/initXE.ora
+vi /opt/oracle/product/21c/dbhomeXE/dbs/spfileXE.ora
+sudo yum install wget -y
+sudo yum install policycoreutils-python -y
+sudo yum install oracle-database-preinstall-19c-1.0-1.el9.x86_64.rpm -y
+ls
+rm oracle-database-preinstall-21c-1.0-1.el7.x86_64.rpm 
+sudo yum install oracle-database-preinstall-19c-1.0-1.el9.x86_64.rpm -y
+ls
+rm oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+ls
+cl
+cat /etc/redhat-release
+sudo yum install java-1.8.0-openjdk -y
+sudo yum install wget -y
+sudo yum install oracle-database-preinstall-19c -y
+ls
+wget https://yum.oracle.com/repo/OracleLinux/OL9/latest/x86_64/getPackage/oracle-database-preinstall-19c-1.0-1.el9.x86_64.rpm
+wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm -y
+sudo yum install oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+wget https://yum.oracle.com/repo/OracleLinux/OL8/latest/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+wget https://www.oracle.com/database/technologies/xe-downloads.html
+ls
+cd xe-downloads.html 
+ls
+clear
+history
+ls
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm --skip-broken
+wget https://yum.oracle.com/repo/OracleLinux/OL8/latest/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+wget https://repo.almalinux.org/almalinux/8/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+ls
+sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm 
+ls
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
+ls
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+ago on Mon 23 Sep 2024 09:57:47 AM UTC.
+Dependencies resolved.
+=============================================================================================================================================================
+ Package                                         Architecture                    Version                         Repository                             Size
+=============================================================================================================================================================
+Installing:
+ oracle-database-xe-21c                          x86_64                          1.0-1                           @commandline                          2.2 G
+ls
+ls /opt/
+sudo systemctl status oracle-xe-21c
+ls
+sudo /etc/init.d/oracle-xe-21c configure
+cat /opt/oracle/cfgtoollogs/dbca/xe/DBCreate.log
+sudo vi /etc/sysctl.conf
+sudo systemctl start oracle-xe-21c
+vi ~/.bash_profile
+source ~/.bash_profile
+sqlplus sys as sysdba
+sudo systemctl status oracle-xe-21c
+sqlplus / as sysdba
+ls /opt/oracle/product/21c/dbhomeXE
+cat /opt/oracle/cfgtoollogs/dbca/XE/XE.log
+sudo cat /opt/oracle/cfgtoollogs/dbca/XE/XE.log
+sudo /etc/init.d/oracle-xe-21c configure
+sudo vi /opt/oracle/product/21c/dbhomeXE/dbs/initXE.ora
+sudo /etc/init.d/oracle-xe-21c configure
+free -h
+df -h
+sudo dd if=/dev/zero of=/swapfile bs=1M count=2048
+sudo chmod 600 /swapfile
+sudo mkswap /swapfile
+sudo swapon /swapfile
+echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
+sudo vi /opt/oracle/product/21c/dbhomeXE/dbs/initXE.ora
+sudo /etc/init.d/oracle-xe-21c configure
+sudo vi /opt/oracle/product/21c/dbhomeXE/dbs/initXE.ora
+sudo ls /opt/oracle/cfgtoollogs/dbca
+sudo vi /opt/oracle/cfgtoollogs/dbca/
+sudo vi /opt/oracle/product/21c/dbhomeXE/dbs/initXE.ora
+sudo /etc/init.d/oracle-xe-21c configure
+free -h
+sudo less /opt/oracle/cfgtoollogs/dbca/trace.log_2024-09-23_11-11-28AM
+sudo /etc/init.d/oracle-xe-21c stop
+sudo /opt/oracle/product/21c/dbhomeXE/bin/dbca
+sudo /etc/inti.d/oracle-xe-21c configure
+sudo /etc/init.d/oracle-xe-21c configure
+vi /opt/oracle/cfgtoollogs/dbca
+sudo vi /opt/oracle/cfgtoollogs/dbca
+sudi bash
+sudo bash
+cd opt/oracle/product/21c/dbhomeXE/
+cd /opt/oracle/product/21c/dbhomeXE/
+ls
+env | grep ORACLE
+ls /opt/oracle/cfgtoollogs/dbca
+sudo ls /opt/oracle/cfgtoollogs/dbca
+sudo /etc/init.d/oracle-xe-21c configure
+sudo /etc/init.d/oracle-xe-21c configure --ajinkya -Ajinkya123
+sudo /etc/init.d/oracle-xe-21c configure --ajinkya --Ajinkya123
+ls /opt/oracle/cfgtoollogs/dbca
+sudo ls /opt/oracle/cfgtoollogs/dbca
+less /opt/oracle/cfgtoollogs/dbca/trace.log_2024-09-23_11-19-35AM
+sudo less /opt/oracle/cfgtoollogs/dbca/trace.log_2024-09-23_11-19-35AM
+sudo ls /opt/oracle/cfgtoollogs/dbca
+sudo sudo ls /opt/oracle/cfgtoollogs/dbca
+sudo less /opt/oracle/cfgtoollogs/dbca/silent.log_2024-09-23_11-31-51AM
+sqlplus / as sysdba
+sudo /etc/init.d/oracle-xe-21c configure
+clear
+history
+cd
+ sudo /etc/init.d/oracle-xe-21c configure
+sudo yum install tmux
+ls
+cd /etc/init.d/
+ls
+sudo oracle-xe-21c configure
+ sudo /etc/init.d/oracle-xe-21c configure
+sqlplus
+ sudo /etc/init.d/oracle-xe-21c configure
+tmux
+
+sqlplus
+sqlplus ajinkya/Ajinkya123
+sudo systemctl enable oracle-xe-21c
+sqlplus ajinkya/Ajinkya123
+sudo service oracle-xe-21c start
+ls -a
+cat ~/.bash_history \
+cat ~/.bash_history 
+sqlplus ajinkya/Ajinkya123
+ls
+sqlplus sys as sysdba/Ajinkya123
+
+imp classsicmodels/classicmodels123 FULL=y File=./classicmodels.dmp 
+imp classsicmodels/classicmodels FULL=y File=./classicmodels.dmp 
+sqlplus classicmodes/classicmodels123
+imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp 
+history
+sudo yum install git
+git config --global user.name ajinkyadawange31045
+git config --global user.email ajinkyadawange31045ard@gmail.com
+cd ~
+ls
+mkdir github_assignment
+cd github_assignment/
+git clone https://github.com/ajinkyadawange31045/commit-history-task-bizz-training-period.git
+ls
+cd commit-history-task-bizz-training-period/
+ls
+touch push_history.sh
+vi t
+ls -l
+ls
+vi push_history.sh
+cd
+cd ~/commit-history-task-bizz-training-period
+cd ~/github_assignment/commit-history-task-bizz-training-period
+vi push_history.sh
+ls
+cat push_history.sh 
+chmod +x ~/github_assignment/commit-history-task-bizz-training-period/push_history.sh 
+crontab -e
+ls
+ls- la
+ls -l
+crontab -l
+~/github_assignment/commit-history-task-bizz-training-period/push_history.sh 
+ssh-keygen -t rsa -b 4096 -C ajinkyadawange31045ard@gmail.com
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub
+git remote set-url origin git@github.com:ajinkyadawange31045/commit-history-task-bizz-training-period.git
+git remote -v
+ssh -T git@github.com
+git status
+git add .
+~/github_assignment/commit-history-task-bizz-training-period/push_history.sh 
+grep CRON /var/log/cron
+sudo grep CRON /var/log/cron
+~/github_assignment/commit-history-task-bizz-training-period/push_history.sh 
+ls
+touch test
+~/github_assignment/commit-history-task-bizz-training-period/push_history.sh 
+ls
+git status
+~/github_assignment/commit-history-task-bizz-training-period/push_history.sh
+sudo vi ~/github_assignment/commit-history-task-bizz-training-period/push_history.sh
+~/github_assignment/commit-history-task-bizz-training-period/push_history.sh
+ls
+cd ..
+ls
+ls -l
+cd ..
+ls
+cd github_assignment/
+ls
+cd commit-history-task-bizz-training-period/
+ls
+ls -l
+ls -a
+ls
+git remote set-url origin git@github.com:ajinkyadawange31045/training-biz-ajinkya.git
+git remote -v
+ls
+./push_history.sh 
+cat history.txt
+ls
+history ~/github_assignment/
+ls
+history >  ~/github_assignment/commit-history-task-bizz-training-period/history.txt 
+cat history.txt \
+cat history.txt 
+git add history.txt
+git commit -m "Adding history.txt"
+git push -u origin main
+ls
+vi push_history.sh 
+./push_history.sh
+sudo grep CRON /var/log/cron
+ls
+vi push_history.sh 
+vi history.txt 
+git pull
+git pull .
+ls
+cat history.txt 
+rm test
+ls
+vi push_history.sh 
+./push_history.sh 
+ls
+cat history.txt 
+vi history.txt 
+./push_history.sh 
+git add history.txt
+cat ~/.bash_history > ~/github_assignment/commit-history-task-bizz-training-period/history.txt
+ls
+history > history.txt 
+git add history.txt
+git commit -m "$(date '+%Y-%m-%d %H:%M:%S')" 
+git push origin main
+ls
+vi push_history.sh 
+cd /home/ec2-user/github_assignment/commit-history-task-bizz-training-period
+cat /home/ec2-user/.bash_history > /home/ec2-user/github_assignment/commit-history-task-bizz-training-period/history.txt
+/usr/bin/git add history.txt
+/usr/bin/git commit -m "$(date '+%Y-%m-%d %H:%M:%S')" 
+/usr/bin/git push origin main
+grep CRON /var/log/cron
+sudo grep CRON /var/log/cron
+git branch --unset-upstream
+git push --set-upstream origin main
+ls
+./push_history.sh 
+# Stage the modified script and remove the swap file
+git add push_history.sh
+git rm .push_history.sh.swp  # This removes the swap file
+# Commit the changes with a timestamp
+git commit -m "Commit at $(date)"
+# Push the changes to the remote repository
+git push origin main
+git diff push_history.sh
+ls
+vi push_history.sh 
+ls
+cat ~/.bash_history 
+ls
+vi push_history.sh 
+crontab -e
+~/commit-history-task-bizz-training-period/push_history.sh
+sudo grep CRON /var/log/cron -h
+ls
+vi history.txt 
+./push_history.sh 
+~/commit-history-task-bizz-training-period/push_history.sh
+./push_history.sh 
+git status
+ls
+cat history.txt
+wq
+:wq
+asd
+asf
+as
+history
+./push_history.sh 
+ls
+rm a.out 
+./push_history.sh 
