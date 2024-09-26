@@ -349,3 +349,4 @@ cat history.txt
 cat ls
 ls
 cat push_history.sh 
+;ls
