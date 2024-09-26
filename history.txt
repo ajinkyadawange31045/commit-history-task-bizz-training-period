@@ -332,3 +332,8 @@ history
 ls
 rm a.out 
 ./push_history.sh 
+ls 
+cd github_assignment/
+ls
+cd commit-history-task-bizz-training-period/
+ls
