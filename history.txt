@@ -181,3 +181,154 @@ imp classsicmodels/classicmodels FULL=y File=./classicmodels.dmp
 sqlplus classicmodes/classicmodels123
 imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp 
 history
+sudo yum install git
+git config --global user.name ajinkyadawange31045
+git config --global user.email ajinkyadawange31045ard@gmail.com
+cd ~
+ls
+mkdir github_assignment
+cd github_assignment/
+git clone https://github.com/ajinkyadawange31045/commit-history-task-bizz-training-period.git
+ls
+cd commit-history-task-bizz-training-period/
+ls
+touch push_history.sh
+vi t
+ls -l
+ls
+vi push_history.sh
+cd
+cd ~/commit-history-task-bizz-training-period
+cd ~/github_assignment/commit-history-task-bizz-training-period
+vi push_history.sh
+ls
+cat push_history.sh 
+chmod +x ~/github_assignment/commit-history-task-bizz-training-period/push_history.sh 
+crontab -e
+ls
+ls- la
+ls -l
+crontab -l
+~/github_assignment/commit-history-task-bizz-training-period/push_history.sh 
+ssh-keygen -t rsa -b 4096 -C ajinkyadawange31045ard@gmail.com
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub
+git remote set-url origin git@github.com:ajinkyadawange31045/commit-history-task-bizz-training-period.git
+git remote -v
+ssh -T git@github.com
+git status
+git add .
+~/github_assignment/commit-history-task-bizz-training-period/push_history.sh 
+grep CRON /var/log/cron
+sudo grep CRON /var/log/cron
+~/github_assignment/commit-history-task-bizz-training-period/push_history.sh 
+ls
+touch test
+~/github_assignment/commit-history-task-bizz-training-period/push_history.sh 
+ls
+git status
+~/github_assignment/commit-history-task-bizz-training-period/push_history.sh
+sudo vi ~/github_assignment/commit-history-task-bizz-training-period/push_history.sh
+~/github_assignment/commit-history-task-bizz-training-period/push_history.sh
+ls
+cd ..
+ls
+ls -l
+cd ..
+ls
+cd github_assignment/
+ls
+cd commit-history-task-bizz-training-period/
+ls
+ls -l
+ls -a
+ls
+git remote set-url origin git@github.com:ajinkyadawange31045/training-biz-ajinkya.git
+git remote -v
+ls
+./push_history.sh 
+cat history.txt
+ls
+history ~/github_assignment/
+ls
+history >  ~/github_assignment/commit-history-task-bizz-training-period/history.txt 
+cat history.txt \
+cat history.txt 
+git add history.txt
+git commit -m "Adding history.txt"
+git push -u origin main
+ls
+vi push_history.sh 
+./push_history.sh
+sudo grep CRON /var/log/cron
+ls
+vi push_history.sh 
+vi history.txt 
+git pull
+git pull .
+ls
+cat history.txt 
+rm test
+ls
+vi push_history.sh 
+./push_history.sh 
+ls
+cat history.txt 
+vi history.txt 
+./push_history.sh 
+git add history.txt
+cat ~/.bash_history > ~/github_assignment/commit-history-task-bizz-training-period/history.txt
+ls
+history > history.txt 
+git add history.txt
+git commit -m "$(date '+%Y-%m-%d %H:%M:%S')" 
+git push origin main
+ls
+vi push_history.sh 
+cd /home/ec2-user/github_assignment/commit-history-task-bizz-training-period
+cat /home/ec2-user/.bash_history > /home/ec2-user/github_assignment/commit-history-task-bizz-training-period/history.txt
+/usr/bin/git add history.txt
+/usr/bin/git commit -m "$(date '+%Y-%m-%d %H:%M:%S')" 
+/usr/bin/git push origin main
+grep CRON /var/log/cron
+sudo grep CRON /var/log/cron
+git branch --unset-upstream
+git push --set-upstream origin main
+ls
+./push_history.sh 
+# Stage the modified script and remove the swap file
+git add push_history.sh
+git rm .push_history.sh.swp  # This removes the swap file
+# Commit the changes with a timestamp
+git commit -m "Commit at $(date)"
+# Push the changes to the remote repository
+git push origin main
+git diff push_history.sh
+ls
+vi push_history.sh 
+ls
+cat ~/.bash_history 
+ls
+vi push_history.sh 
+crontab -e
+~/commit-history-task-bizz-training-period/push_history.sh
+sudo grep CRON /var/log/cron -h
+ls
+vi history.txt 
+./push_history.sh 
+~/commit-history-task-bizz-training-period/push_history.sh
+./push_history.sh 
+git status
+ls
+cat history.txt
+wq
+:wq
+asd
+asf
+as
+history
+./push_history.sh 
+ls
+rm a.out 
+./push_history.sh 
